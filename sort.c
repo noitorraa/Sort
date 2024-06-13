@@ -12,6 +12,7 @@ int main() {
     sort(data, num);
     output(data, num);
   }
+  return 0;
 }
 
 int input(int *a, int *n, int *check) {
